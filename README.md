@@ -4,18 +4,18 @@
 
 # Требования для запуска проекта
 
-Python 3.12.4
-Allure 2.32.0
-Docker (Опционально) Visual Studio Code или Pycharm
+• Python 3.12.4
+• Allure 2.32.0
+• Docker (Опционально) Visual Studio Code или Pycharm
 
 # Инструкция для запуска локальных автотестов
 
-Склонировать этот проект, скачать и запустить проект API сущностей (https://github.com/bondarenkokate73/simbirsoft_sdet_project)
-Установить виртуальную среду: py -m venv venv
-Активировать виртуальную среду: venv/Scripts/activate
-Установить зависимости из requirements.txt: pip install -r requirements.txt
-Запустить автотесты c аллюром: pytest --alluredir allure-reports
-Просмотреть allure-отчет автотестов: allure serve allure-reports
+1. Склонировать этот проект, скачать и запустить проект API сущностей (https://github.com/bondarenkokate73/simbirsoft_sdet_project)
+2. Установить виртуальную среду: py -m venv venv
+3. Активировать виртуальную среду: venv/Scripts/activate
+4. Установить зависимости из requirements.txt: pip install -r requirements.txt
+5. Запустить автотесты c аллюром: pytest --alluredir allure-reports
+6. Просмотреть allure-отчет автотестов: allure serve allure-reports
 
 # Задание
 
