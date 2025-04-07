@@ -4,9 +4,9 @@
 
 # Требования для запуска проекта
 
-• Python 3.12.4
-• Allure 2.32.0
-• Docker (Опционально) Visual Studio Code или Pycharm
+1. Python 3.12.4
+2. Allure 2.32.0
+3. Docker (Опционально) Visual Studio Code или Pycharm
 
 # Инструкция для запуска локальных автотестов
 
